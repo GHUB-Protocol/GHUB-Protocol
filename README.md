@@ -1,5 +1,6 @@
 <h1> COMMUNITY-DRIVEN ECONOMY GemHUB </h1> 
-<img src="(https://github.com/GHUB-Protocol/GHUB-Protocol/blob/main/11.png)" width="1000">
+
+<img src="https://github.com/GHUB-Protocol/GHUB-Protocol/blob/main/11.png" width="1000">
 
 <h1>community centered on a wide range of interests</h1>
 GemHub Token (GHUB) is a utility token used within the interest-based community platform 'Poplus' for rewards, content access, and advertising payments. It incentivizes user participation and drives ecosystem growth.
